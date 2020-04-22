@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/wendidy/Goose-musicBot#readme",
   "dependencies": {
-    "discord.js": "^12.2.0"
+    "discord.js": "^12.2.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^2.1.0"
   }
 }
